@@ -23,7 +23,10 @@ public class MyTest {
 		System.out.println("this is 5");
 		System.out.println("this is 6");
 		System.out.println("this is 7");
-		System.out.println("this is 7");
+		System.out.println("this is 8");
+		System.out.println("this is 9");
+		System.out.println("this is 1-");
+		System.out.println("this is 66");
 
 	}
 
